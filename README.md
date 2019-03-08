@@ -1,0 +1,2 @@
+# udacity-creat-a-movie
+A browser should open on your local machine and and render the HTML template with favorite movies. Click on a movie thumbnail to view the trailer!
